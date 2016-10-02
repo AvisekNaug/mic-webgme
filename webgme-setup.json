@@ -1,0 +1,12 @@
+{
+  "components": {
+    "seeds": {
+      "BasicDigitalLogicCircuit": {
+        "src": "src/seeds/BasicDigitalLogicCircuit"
+      }
+    }
+  },
+  "dependencies": {
+    "seeds": {}
+  }
+}
